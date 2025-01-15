@@ -5,11 +5,16 @@ This project implements a Spring Boot Microservices Architecture designed for ma
 Features:
 
 Service Registry using Eureka Server for service discovery.
+
 Communication between Microservices via Feign Client and RestTemplate.
+
 API Gateway for routing microservice calls.
+
 Centralized Configuration using Spring Cloud Config Server.
+
 Database Integration using MySQL.
-How to Run the Project
+
+How to Run the Project :
 
 Step 1: Install and Configure MySQL
 Install MySQL on your machine.
