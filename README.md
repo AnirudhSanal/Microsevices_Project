@@ -12,7 +12,7 @@ Database Integration using MySQL.
 How to Run the Project
 
 Step 1: Install and Configure MySQL
-Install MySQL on your machine (or use Docker).
+Install MySQL on your machine.
 Create a database to store the train-related data.
 
 Step 2: Set Up Eureka Server (Service Registry)
